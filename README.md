@@ -1,6 +1,6 @@
 # Irises-Mod-Menu
 ### Mod Menu For The VR Game Gorilla Tag
-_[>> Download Page <<]([https://github.com/IrisesMods/Irises-Mod-Menu/blob/main/Download.md](https://github.com/IrisesMods/Irises-Mod-Menu/releases))_
+_[>> Download Page <<](https://github.com/IrisesMods/Irises-Mod-Menu/releases)_
 
 _[>> Irises Discord <<](https://discord.gg/KfMcwUFeQa)_
 ## Credits:
